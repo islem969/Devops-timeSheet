@@ -28,6 +28,7 @@ public class User implements Serializable {
 	public String firstName; 
 	//ajout commentaire
 	private String lastName;
+	//ajout commentaire2
 	
 	@Temporal(TemporalType.DATE)
 	private Date dateNaissance;
